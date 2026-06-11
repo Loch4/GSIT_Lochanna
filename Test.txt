@@ -1,8 +1,2 @@
 I am Master
-<<<<<<< HEAD
-login
-Payment
-=======
-Payment
-google pay
->>>>>>> 568adb5 (google pay)
+comment
