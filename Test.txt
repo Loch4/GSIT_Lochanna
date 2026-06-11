@@ -1,2 +1,6 @@
 I am Master
+<<<<<<< HEAD
 login
+=======
+Payment
+>>>>>>> payment
